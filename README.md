@@ -1,1 +1,2 @@
 # Hotel-analysis
+ I have conducted an in-depth analysis of resort and city hotel data to evaluate key metrics such as occupancy rates, revenue, and customer demographics. It also leveraged my skills  Python , Excel, powerBi , sql and python libraries for data cleaning, manipulation, and visualization, providing insights into market trends and customer preferences. It Deliveres actionable recommendations to optimize pricing and marketing strategies and reduced cancellation rates.
